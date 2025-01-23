@@ -1,14 +1,16 @@
-**Hey there!!!** 
+<h1><em>**Hey there!!!**</em></h1>	
+ 
+<h2><em>**I am super new to all this but willing and ready to learn!!! 👋 (please forgive any ignorance on my end)**</em></h2>
 
-**I am super new to all this but willing and ready to learn!!! 👋 (please forgive any ignorance on my end)**
 
-🔭 I’m currently working on myself  
+<ul>
+<li>🔭 I’m currently working on myself</li> 
 
-🌱 I’m currently learning GenAI and Machine Learning
+<li>🌱 I’m currently learning GenAI and Machine Learning</li>
 
-👯 I’m looking to collaborate on everything that will further my learning 
+<li>👯 I’m looking to collaborate on everything that will further my learning</li>
 
-🤔 I’m looking for help with this new phase 
+<li>🤔 I’m looking for help with this new phase</li>
 
-💬 Ask me about anything 
--->
+<li>💬 Ask me about anything</li>
+</ul>
